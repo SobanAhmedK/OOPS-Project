@@ -1,4 +1,4 @@
-Restaurant Management System
+# Restaurant Management System
 This is a C++ program for a simple Restaurant Management System. It allows the management of a restaurant's menu, customer orders, delivery status, and payment processing. The program consists of several classes: Restaurant, Customer, Rider, and Admin, each with its specific functionalities.
 
 Features
